@@ -1,0 +1,9 @@
+@use "global" as *;
+
+// こちらで微調整を行う。
+// btn__el-Name -> el-Nameを微調整したいelement名に変更して使う。
+.btn__el-Name {
+  width: 18.75rem;
+  max-width: 100%;
+  padding: 1.25rem 0.625rem;
+}
